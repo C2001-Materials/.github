@@ -1,7 +1,7 @@
 ## Welcome to C2001 Materials 👋
 
 What is this place?  
-A Github Repository to store, share and archive content for **C2001** related content
+A Github Repository to store, share and archive **C2001** related content
   
 Why?  
 Idk  
